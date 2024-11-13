@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicio times e jogadores caio", "exercicio times e jogadores caio\exercicio times e jogadores caio.csproj", "{9833411D-54B7-46F5-AD0B-F0DD7AA626FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9833411D-54B7-46F5-AD0B-F0DD7AA626FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9833411D-54B7-46F5-AD0B-F0DD7AA626FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9833411D-54B7-46F5-AD0B-F0DD7AA626FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9833411D-54B7-46F5-AD0B-F0DD7AA626FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFE9095C-7CEE-486E-A9F6-7F6E031F8D67}
+	EndGlobalSection
+EndGlobal
